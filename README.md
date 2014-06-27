@@ -12,7 +12,7 @@ While the data transfer module between the components is my work, the solvers an
 2. Using the code
 -----------------
 
-Neither Openfoam nor Fluidity is required. The base component (Nealbara - named after the ancient ocen around Vaalbara) is the only requirement. With Nealbara, one can load models, solvers, and constraints, and execute them. Everything runs with C/C++ with some python. Any modern Unix machine should be enough to handle this. In fact, I dont plan any support for windows.
+Neither Openfoam nor Fluidity is required. The base component (Nealbara - named after the ancient ocean around Vaalbara) is the only requirement. With Nealbara, one can load models, solvers, and constraints, and execute them. Everything runs with C/C++ with some python. Any modern Unix machine should be enough to handle this. In fact, I dont plan any support for windows.
 
 Read the associated pdf file
 
