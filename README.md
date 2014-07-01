@@ -1,5 +1,5 @@
-CansatOperations
-================
+Nealbara CFD Framework
+======================
 
 Investigations of the Atmosphere using Cansats
 
@@ -7,7 +7,7 @@ Investigations of the Atmosphere using Cansats
 1. Source / Inspiration of Codes
 --------------------------------
 
-While the data transfer module between the components is my work, the solvers and many models are based on OpenFoam and/or Fluidity.
+While the manager between the components is my work, the solvers and many models are based on OpenFoam and/or Fluidity.
 
 2. Using the code
 -----------------
