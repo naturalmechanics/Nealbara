@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-CansatOperations
-================
-=======
-Nealbara CFD Framework
+FD Framework
 ======================
 >>>>>>> f19c9d059af5d7c1937ef5e7adde92bedcf79e3c
 
