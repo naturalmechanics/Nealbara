@@ -1,0 +1,9 @@
+{ }
+(\p{White_Space})*:(\p{White_Space})*
+;
+contents
+ID
+
+
+ID
+lacks:bogusID

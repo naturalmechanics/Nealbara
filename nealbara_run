@@ -1,0 +1,2 @@
+#! /bin/bash
+dmd -L-ltango-dmd -I/home/vero/Work/nealbara -I/home/vero/Work/niarbyl/ -I/home/vero/Work/D_libs/ nealbara_interface.d /home/vero/Work/nealbara/nealbara.d /home/vero/Work/niarbyl/niarbylmachine.d /home/vero/Work/D_libs/array_manip.d /home/vero/Work/D_libs/file_io.d /home/vero/Work/D_libs/string_libs.d  
